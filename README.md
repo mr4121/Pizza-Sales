@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Analysis
 
 ## 📖 Overview
-This project analyses pizza sales data to uncover trends and insights.  
+This project analyses pizza sales data to uncover trends and insights.
 The goal is to understand sales performance, identify popular products, and provide actionable insights for decision-making.
 
 ## 🛠 Tools & Techniques
